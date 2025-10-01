@@ -140,12 +140,6 @@ def add_vars_input():
     a, b = 10, 20
     c = int(input("Enter another number: "))
     print("Sum =", a+b+c)
-    
-# 18. Add two vars + input
-def add_vars_input():
-    a, b = 10, 20
-    c = int(input("Enter another number: "))
-    print("Sum =", a+b+c)
 
 # 19. Dictionary Iteration
 def dict_iteration():
