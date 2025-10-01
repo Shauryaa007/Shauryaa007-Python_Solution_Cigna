@@ -2,7 +2,7 @@ import math
 import itertools
 import datetime
 
-# ------------------ PROGRAM FUNCTIONS  ------------------
+# ------------------ PROGRAM FUNCTIONS --  ------------------
 
 # 1. Leap Year
 def leap_year():
