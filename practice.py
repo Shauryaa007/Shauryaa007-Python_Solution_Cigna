@@ -2,7 +2,7 @@ import math
 import itertools
 import datetime
 
-# ------------------ PROGRAM FUNCTIONS for updated branches ------------------
+# ------------------ PROGRAM FUNCTIONS  ------------------
 
 # 1. Leap Year
 def leap_year():
@@ -135,6 +135,12 @@ def print_date():
     day, mon, yr = 21, 12, 2012
     print(f"{day}-{mon}-{yr}")
 
+# 18. Add two vars + input
+def add_vars_input():
+    a, b = 10, 20
+    c = int(input("Enter another number: "))
+    print("Sum =", a+b+c)
+    
 # 18. Add two vars + input
 def add_vars_input():
     a, b = 10, 20
